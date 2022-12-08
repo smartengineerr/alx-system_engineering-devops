@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="$((2*64))"\n
+echo $(( 128 + $TRUEKNOWLEDGE ))
